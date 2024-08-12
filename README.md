@@ -26,7 +26,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 1. Clone the repository to your local machine:
 
     \`\`\`bash
-    git clone https://github.com/your-username/cleaning-with-python.git
+    git clone https://github.com/taoducminh/cleaning-with-python.git
     \`\`\`
 
 2. Navigate to the project directory:
